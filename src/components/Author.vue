@@ -10,7 +10,7 @@
 		</p>
 
 		<p class="author__links">
-			<a href="https://t.me/iconpacksmiui">Subscriber on Telegram</a>
+			<a href="https://t.me/iconpacksmiui">Subscribe on Telegram</a>
 		</p>
 
 	</div>
