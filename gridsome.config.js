@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Netlify CMS Gridsome starter template',
+  siteName: 'MIUI ICONS',
   siteDescription: 'A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.',
 
   templates: {
