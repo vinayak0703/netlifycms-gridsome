@@ -1,11 +1,11 @@
 ---
-title: A post with a g-image (hopefully)
-date: 2020-07-25T20:21:08.117Z
+title: Nova Dark Icons
+date: 2021-05-18T08:47:53.751Z
 published: true
 tags:
-  - g-image
-  - test
-cover_image: ../../static/images/uploads/mads-schmidt-rasmussen-xfngap_dtoe-unsplash.jpg
+  - dark
+  - Rounded Square
+cover_image: ../../static/images/uploads/img_20210517_111520_396.jpg
 description: Just one more test...
 ---
 With a body too, of course ;)
